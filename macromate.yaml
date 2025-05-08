@@ -78,3 +78,25 @@ macros:
     markdownUrl: Markdown/Zone1/CriticalMissions/OmniCritical.md
     notes: |
       [3]Gold - Foodless
+
+  #Weather Missions
+  - name: 4700-14900-20
+    group: Zone1/Weather
+    iconId: 55370
+    markdownUrl: Markdown/Zone1/WeatherMissions/WeatherPrecraft.md
+    notes: |
+      [2]Silver - Ceviche - Precraft
+      
+  - name: 9500-24000-60
+    group: Zone1/Weather
+    iconId: 55371
+    markdownUrl: Markdown/Zone1/WeatherMissions/WeatherNQCraft.md
+    notes: |
+      [2]Silver - Ceviche - NQ
+      
+  - name: 9300-22500-60
+    group: Zone1/Weather
+    iconId: 55371
+    markdownUrl: Markdown/Zone1/WeatherMissions/WeatherNQCraft.md
+    notes: |
+      [2]Silver - Ceviche - NQ
