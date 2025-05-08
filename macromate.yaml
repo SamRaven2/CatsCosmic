@@ -2,60 +2,70 @@ name: "Cat's Cosmic Macros"
 macros:
   - name: 23400-700-80
     group: Zone1/Standard
+    iconId: 55370
     markdownUrl: Markdown/Zone1/StandardMissions/23400-700-80.md
     notes: |
       [3]Gold Rank - Ceviche
   
   - name: 8500-14000-80
     group: Zone1/Standard
+    iconId: 55370
     markdownUrl: Markdown/Zone1/StandardMissions/8500-14000-80.md
     notes: |
       [3]Gold Rank - Ceviche
       
   - name: 9900-20300-80
     group: Zone1/Standard
+    iconId: 55371
     markdownUrl: Markdown/Zone1/StandardMissions/9900-20300-80.md
     notes: |
       [1]Silver Rank - Ceviche
       
   - name: 400-21000-60
     group: Zone1/Standard
+    iconId: 55370
     markdownUrl: Markdown/Zone1/StandardMissions/400-21000-60.md
     notes: |
       [1]Gold Rank - Ceviche
       
   - name: 7500-15000-70
     group: Zone1/Standard
+    iconId: 55370
     markdownUrl: Markdown/Zone1/StandardMissions/7500-15000-70.md
     notes: |
       [3]Gold Rank - Ceviche
       
   - name: 2500-11300-20
     group: Zone1/Standard
+    iconId: 55370
     markdownUrl: Markdown/Zone1/StandardMissions/2500-11300-20.md
     notes: |
       [2]Gold Rank - Ceviche
       
   - name: 6600-12300-40
     group: Zone1/Standard
+    iconId: 55370
     markdownUrl: Markdown/Zone1/StandardMissions/6600-12300-40.md
     notes: |
       [3]Gold Rank - Ceviche
       
   - name: 7800-14900-65
     group: Zone1/Standard
+    iconId: 55370
     markdownUrl: Markdown/Zone1/StandardMissions/7800-14900-65.md
     notes: |
       [3]Gold Rank - Ceviche
       
   - name: 7500-15400-75
     group: Zone1/Standard
+    iconId: 55371
     markdownUrl: Markdown/Zone1/StandardMissions/7500-15400-75.md
     notes: |
       [2]Silver - Ceviche - Dual Class Mission
       
   - name: 7100-11800-50
     group: Zone1/Standard
+    iconId: 55371
     markdownUrl: Markdown/Zone1/StandardMissions/7100-11800-50.md
     notes: |
       [2]Silver - Ceviche - Dual Class Mission
