@@ -1,5 +1,6 @@
 name: "Cat's Cosmic Macros"
 macros:
+  #Standard Missions
   - name: 23400-700-80
     group: Zone1/Standard
     iconId: 55370
@@ -69,7 +70,8 @@ macros:
     markdownUrl: Markdown/Zone1/StandardMissions/7100-11800-50.md
     notes: |
       [2]Silver - Ceviche - Dual Class Mission
-      
+
+  #Critical Missions      
   - name: Omni Critical
     group: Zone1/Critical
     iconId: 55370
