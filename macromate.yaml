@@ -69,3 +69,10 @@ macros:
     markdownUrl: Markdown/Zone1/StandardMissions/7100-11800-50.md
     notes: |
       [2]Silver - Ceviche - Dual Class Mission
+      
+  - name: 4422-7080-40
+    group: Zone1/Critical
+    iconId: 55370
+    markdownUrl: Markdown/Zone1/CriticalMissions/4422-7080-40.md
+    notes: |
+      [3]Gold - Foodless - Omni-Critical
