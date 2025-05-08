@@ -1,0 +1,7 @@
+name: "Cat's Cosmic Macros"
+macros:
+  - name: 23400-700-80
+    group: Zone1/Standard
+    markdownUrl: Markdown/StandardMissions/23400-700-80.md
+    notes: |
+      Gold Rank - Ceviche
