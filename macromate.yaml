@@ -73,6 +73,6 @@ macros:
   - name: "Omni Critical"
     group: Zone1/Critical
     iconId: 55370
-    markdownUrl: Markdown/Zone1/CriticalMissions/4422-7080-40.md
+    markdownUrl: Markdown/Zone1/CriticalMissions/OmniCritical.md
     notes: |
       [3]Gold - Foodless
