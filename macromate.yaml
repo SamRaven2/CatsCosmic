@@ -70,7 +70,7 @@ macros:
     notes: |
       [2]Silver - Ceviche - Dual Class Mission
       
-  - name: 4422-7080-40
+  - name: "Omni Critical"
     group: Zone1/Critical
     iconId: 55370
     markdownUrl: Markdown/Zone1/CriticalMissions/4422-7080-40.md
